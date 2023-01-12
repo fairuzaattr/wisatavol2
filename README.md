@@ -1,9 +1,9 @@
-Nama : Fairuza Attar Aviciena
-Kelas : IK-2C
-NIm : 3.34.21.2.08
+Nama : Fairuza Attar Aviciena <br>
+Kelas : IK-2C <br>
+NIm : 3.34.21.2.08 <br>
 
-# wisatavol2
-(maaf pak ini tempat wisata seluruh indonesia karena ditempat saya tidak ada tempat wisata :( )
+# wisatavol2 <br>
+(maaf pak ini tempat wisata seluruh indonesia karena ditempat saya tidak ada tempat wisata :( ) <br>
 HASIL 
 ![image](https://user-images.githubusercontent.com/116175003/212165188-af6bd914-9a7f-4dbf-a6d3-000d9ac3b2ec.png)
 
